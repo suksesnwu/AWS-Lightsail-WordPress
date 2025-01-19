@@ -29,6 +29,9 @@ cat bitnami_application_password
 ### Step 6: Access the Admin Panel
 - Access your website’s admin panel using the public IP provided by Lightsail to configure your CMS.
 
+![log-in-Wordpress-Dashboard](https://github.com/user-attachments/assets/5dfb102b-bd7d-493f-9f7a-d4cbefc0b6ce)
+
+
 ### Step 7: Customize Your Website
 - Customize your website with themes and plugins through the CMS admin panel.
 

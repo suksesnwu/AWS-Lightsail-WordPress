@@ -20,6 +20,11 @@ This repository contains step-by-step instructions for deploying and securing a 
 
 ### Step 5: Connect to Your Instance
 - Use the Lightsail console to connect to your instance via SSH for backend management.
+- Once you've connected to you ssh, type the following to retrieve your WordPress password
+
+```
+cat bitnami_application_password
+```
 
 ### Step 6: Access the Admin Panel
 - Access your website’s admin panel using the public IP provided by Lightsail to configure your CMS.
